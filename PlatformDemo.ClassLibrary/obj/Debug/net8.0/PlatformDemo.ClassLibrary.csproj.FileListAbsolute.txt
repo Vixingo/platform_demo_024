@@ -1,0 +1,14 @@
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\bin\Debug\net8.0\PlatformDemo.ClassLibrary.deps.json
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\bin\Debug\net8.0\PlatformDemo.ClassLibrary.dll
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\bin\Debug\net8.0\PlatformDemo.ClassLibrary.pdb
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\PlatformDemo.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\PlatformDemo.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\PlatformDemo.ClassLibrary.AssemblyInfo.cs
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\PlatformDemo.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\PlatformDemo.ClassLibrary.dll
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\refint\PlatformDemo.ClassLibrary.dll
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\PlatformDemo.ClassLibrary.pdb
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\ref\PlatformDemo.ClassLibrary.dll
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\bin\Debug\net8.0\PlatformDemo.ClassLibrary.runtimeconfig.json
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\PlatformDemo.ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Nazmu\Documents\Projects\net\PlatformDemo.ClassLibrary\obj\Debug\net8.0\PlatformDemo.ClassLibrary.genruntimeconfig.cache
